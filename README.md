@@ -1,6 +1,13 @@
 <h1 align="center">Hi there, I'm Rami Rachdi 👋</h1>
 <p align="center">I’m a Software Engineering student at INSAT with a passion for full-stack development, DevOps, and cloud technologies. I’m constantly exploring new technologies and refining my skills to build efficient and scalable applications.</p>
 
+<h2 align="left">🎯 What I’m Working On</h2>
+<ul>
+  <li>Building state-of-the-art applications with modern full-stack technologies.</li>
+  <li>Exploring advanced DevOps practices to enhance software delivery pipelines.</li>
+  <li>Leveraging cloud platforms like AWS and Azure for scalable deployments.</li>
+</ul>
+
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
 <h3>Full-Stack Development</h3>
@@ -80,12 +87,7 @@
   </a>
 </p>
 
-<h2 align="left">🎯 What I’m Working On</h2>
-<ul>
-  <li>Building state-of-the-art applications with modern full-stack technologies.</li>
-  <li>Exploring advanced DevOps practices to enhance software delivery pipelines.</li>
-  <li>Leveraging cloud platforms like AWS and Azure for scalable deployments.</li>
-</ul>
+
 
 <h2 align="left">📫 How to Reach Me</h2>
 <p align="left">
