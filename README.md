@@ -92,7 +92,7 @@
 
 <h2 align="left">📫 How to Reach Me</h2>
 <p align="left">
-  Email: <a href="mailto:rachdirami11@gmail.com">rachdirami@gmail.com</a><br>
+  Email: <a href="mailto:rachdirami11@gmail.com">rachdirami11@gmail.com</a><br>
   LinkedIn: <a href="https://linkedin.com/in/rami-rachdi-37249b270" target="_blank" rel="noreferrer">linkedin.com/in/rami-rachdi-37249b270</a>
 </p>
 
