@@ -40,7 +40,7 @@
 <h3>Backend</h3>
 <p align="left">
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/3408362/56417732-238d3a80-626b-11e9-9c3c-02d7890464b7.png" alt="NestJS" width="50" height="50" style="margin-right: 20px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/932px-NestJS.svg.png?20221211225055" alt="NestJS" width="50" height="50" style="margin-right: 20px;"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="margin-right: 20px;"/>
