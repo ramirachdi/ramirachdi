@@ -11,8 +11,8 @@
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
 <h3>Full-Stack Development</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="70"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -21,24 +21,23 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>
   </a>
-
   <a href="https://www.microsoft.com/net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="70" height="70"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
   </a>
-</p>
+</div>
 
 <h3>Frontend</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70"/>
   </a>
-</p>
+</div>
 
 <h3>Backend</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/932px-NestJS.svg.png?20221211225055" alt="NestJS" width="70" height="70"/>
   </a>
@@ -54,10 +53,10 @@
   <a href="https://symfony.com" target="_blank" rel="noreferrer">
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="70" height="70"/>
   </a>
-</p>
+</div>
 
 <h3>DevOps</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="70" height="70"/>
   </a>
@@ -76,17 +75,17 @@
   <a href="https://prometheus.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="70" height="70"/>
   </a>
-</p>
+</div>
 
 <h3>Cloud</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="70" height="70"/>
   </a>
-</p>
+</div>
 
 <h2 align="left">📫 How to Reach Me</h2>
 <p align="left">
