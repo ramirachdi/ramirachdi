@@ -1,4 +1,4 @@
-# Rami Rachdi | Software Engineer 👋
+<h1 align="center">Rami Rachdi | Software Engineer 👋</h1>
 
 <div align="center">
 
