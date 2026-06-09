@@ -14,12 +14,16 @@
 
 ## 👨‍💻 About Me
 
-I build **complete solutions, not just components,** from modern web apps to scalable infrastructure and ML models that deliver real value.  
-I thrive at the intersection of **Web Development, DevOps, and MLOps**.
+I build systems that go all the way, from the interface people see  
+to the infrastructure underneath and the models that make it smart.
 
-I've cut deployment times by 70%, reduced integration overhead by 30%, and built systems where **frontend polish meets backend reliability and smart automation**.
+My work lives at the intersection of **Web Development**, **DevOps**, and **MLOps**.  
+Not as separate skills, but as one connected way of thinking.
 
-Great software happens when **UX, infrastructure, and intelligence** come together, that’s what I love to build.
+Shipped production systems across AWS and Azure. 
+Built AI pipelines that run themselves. Designed interfaces people actually use.
+
+I don't stop at "it works." I stop at "it's done right."
 
 
 
@@ -98,7 +102,7 @@ Great software happens when **UX, infrastructure, and intelligence** come togeth
 Check out my portfolio to explore selected projects, live demos, and detailed case studies:
 
 🔗 **[ramirachdi.vercel.app](https://ramirachdi.vercel.app)**  
-📧 Or feel free to email me at **rami.rachdi@insat.ucar.tn**
+📧 Or feel free to email me at **rachdirami11@gmail.com**
 
 
 ---
